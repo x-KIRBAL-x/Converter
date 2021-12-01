@@ -43,7 +43,7 @@
                     </children></VBox>
                 <VBox layoutX="10.0" layoutY="10.0" prefHeight="180.0" prefWidth="110.0">
                     <children>
-                        <Label fx:id="fx_ruppe" prefHeight="60.0" prefWidth="110.0" text="-">
+                        <Label fx:id="fx_ruppe" prefHeight="60.0" prefWidth="110.0" text="--">
                             <font>
                                 <Font size="16.0" />
                             </font></Label>
